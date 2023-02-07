@@ -1,0 +1,33 @@
+body {
+   background-color: rgba(12, 29, 126, 0.637);
+}
+h1 {
+    font-family: serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
+p {
+    font-family: serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px; 
+    font-size: medium;
+}
+.top-container{
+    text-align: center;
+    height: 920px;
+    font: 100;
+}
+img {
+    padding-top: 100px;
+}
+.middle-container{
+    padding-top: 10px;
+    height: 920px;
+}
+.bottom-container{
+    height: 100px;
+}
